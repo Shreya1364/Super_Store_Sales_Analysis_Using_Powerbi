@@ -47,6 +47,7 @@ The dashboard highlights sales performance, profit trends, top-performing segmen
 ![Dashboard Screenshot](Super_Store_Analysis/dashboard.jpg)
 
 📊 **Insights Gained**
+
 Consumer segment drives maximum sales
 
 Office Supplies is the top-selling category
